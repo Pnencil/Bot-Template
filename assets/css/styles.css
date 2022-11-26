@@ -23,6 +23,7 @@
 
 .footer-dark {
   padding: 50px 0;
+  border-radius: 50px;
 }
 
 .footer-dark .item.text {
